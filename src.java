@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-/* We are defining the class and then adding and assigning and initiating int variables N and M, then we will want to find max sum where our interval endpoints " k" values in the array separately */
+/* We are defining the class and then adding and assigning and initiating  variables N and M, then we will want to find max sum where our interval endpoints " k" values in the array separately */
 class Solution
 {
 	public static void main (String[] args) throws java.lang.Exception
